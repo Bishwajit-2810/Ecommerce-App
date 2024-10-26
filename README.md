@@ -1,16 +1,47 @@
-# ecommerce_app
+**Ecommerce App**
+================
 
-A new Flutter project.
+A mobile commerce app built with Flutter to help you find, buy, and manage your favorite shoes.
 
-## Getting Started
+### Features
 
-This project is a starting point for a Flutter application.
+* **Product Search**: Search for shoes by brand, style, color, size, and price
+* **Product Details**: View detailed product information, including reviews and ratings
+* **Shopping Cart**: Add products to your cart and checkout securely
+* **Order History**: View your past orders and track their status
 
-A few resources to get you started if this is your first Flutter project:
+### How it Works
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Browse Products**: Browse through our vast collection of shoes by clicking on categories or searching for specific styles
+2. **Add to Cart**: Click the "Add to Cart" button to add products to your shopping cart
+3. **Checkout**: Complete your purchase by filling out shipping and payment information
+4. **Order Tracking**: Track the status of your order in real-time
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Screenshots
+
+[**Screen 1: Product Search**](https://s1.gifyu.com/images/SOjVr.png)
+
+
+### Installation
+
+To get started, simply follow these steps:
+
+* Clone the repository using `git clone https://github.com/Bishwajit-2810/Ecommerce-App`
+* Open the project in your favorite IDE (e.g. Android Studio, Visual Studio Code)
+* Run `flutter pub get` to install dependencies
+* Run `flutter run` to launch the app
+
+### Requirements
+
+* **Flutter**: 2.10.1 or later
+* **Android**: 10 or later
+* **iOS**: 14 or later
+
+### Contributing
+
+Contributions are welcome! If you have any suggestions or bug reports, please create a new issue on [GitHub](https://github.com/Bishwajit-2810/Ecommerce-App).
+
+
+### Acknowledgments
+
+* **Bishwajit** for creating this app
